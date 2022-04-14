@@ -1,3 +1,3 @@
 # ptu1_gittest
 
-bandom issaugoti
+bandom issaugoti kazka
